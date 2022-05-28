@@ -4,6 +4,13 @@ Inspired by the [tutorial](https://developer.chrome.com/docs/extensions/mv3/gets
 
 ## Install
 
+Clone the repository:
+
+```sh
+git clone https://github.com/remarkablemark/chrome-extension-demo.git
+cd chrome-extension-demo
+```
+
 Load unpacked extension:
 
 1. Open Chrome browser
